@@ -5,3 +5,8 @@
 ##Authentication Added
 
 ##Only signup form is being verified at server side
+
+<h2>Installation<h2>
+<ol>
+<li>virtualenv env</li>
+</ol>
