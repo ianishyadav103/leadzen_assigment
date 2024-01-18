@@ -1,50 +1,27 @@
 # Web-based To-Do List Application
 
-This is a simple web-based to-do list application that allows users to add, delete, and mark tasks as completed. The application also includes authentication features with server-side verification for the signup form.
+--This is a simple web-based to-do list application that allows users to add, delete, and mark tasks as completed. 
+--The application also includes authentication.
+--Server-side verification only for the signup form.
 
-## Features
 
-- **Task Management**: Users can add, delete, and mark tasks as completed.
-- **Authentication**: Secure signup form with server-side verification.
+## Installation in windows
 
-## Installation
+1. Create a virtual environment:
 
-1. Clone the repository:
-
-    ```shell
-    git clone https://github.com/your-username/your-repository.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```shell
-    cd your-repository
-    ```
-
-3. Create a virtual environment:
-
-    ```shell
-    python -m venv env
-    ```
+    virtualenv env
 
 4. Activate the virtual environment:
 
-    ```shell
     .\env\Scripts\activate
-    ```
 
 5. Install the required dependencies:
 
-    ```shell
     pip install -r requirements.txt
-    ```
 
 ## Usage
 
 1. Run the application:
 
-    ```shell
     py .\app.py
-    ```
 
-2. Open your web browser and navigate to [http://localhost:5000](http://localhost:500
