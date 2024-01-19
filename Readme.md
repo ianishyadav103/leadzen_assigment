@@ -7,7 +7,7 @@
 #### Basic python program to fetch and display weather information to the user
 
 ### Expense Tracker
-#### Basic python program to manage daily expenses using json file and plotting them based on category.\n
+#### Basic python program to manage daily expenses using json file and plotting them based on category.
 
 
 
