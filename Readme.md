@@ -10,6 +10,7 @@
 #### Basic python program to manage daily expenses using json file and plotting them based on category.
 
 
+
 ## Installation in windows
 
 1. Create a virtual environment:
