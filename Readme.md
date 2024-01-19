@@ -1,13 +1,13 @@
 ### :arrow_forward:Web-based To-Do List Application
-#### &emsp;This is a simple web-based to-do list application that allows users to add, delete, and mark tasks as completed. 
-#### &emsp;Includes user authentication.
-#### &emsp;Server-side verification only for the signup form.
+#### &emsp;&emsp;This is a simple web-based to-do list application that allows users to add, delete, and mark tasks as completed. 
+#### &emsp;&emsp;Includes user authentication.
+#### &emsp;&emsp;Server-side verification only for the signup form.
 
 ### :arrow_forward:Weather App
-#### &emsp;Basic python program to fetch and display weather information to the user
+#### &emsp;&emsp;Basic python program to fetch and display weather information to the user
 
 ### :arrow_forward:Expense Tracker
-#### &emsp;Basic python program to manage daily expenses using json file and plotting them based on category.
+#### &emsp;&emsp;Basic python program to manage daily expenses using json file and plotting them based on category.
 
 
 
