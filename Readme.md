@@ -14,19 +14,19 @@
 
 1. Create a virtual environment:
 
-    virtualenv env
+    ```virtualenv env```
 
 4. Activate the virtual environment:
 
-    .\env\Scripts\activate
+    ```.\env\Scripts\activate```
 
 5. Install the required dependencies:
 
-    pip install -r requirements.txt
+    ```pip install -r requirements.txt```
 
 ## Usage
 
 1. Run the application:
 
-    py .\app.py (when app.py file)
-    py .\main.py (when main.py file)
+    ```py .\app.py``` (when app.py file)
+    ```py .\main.py``` (when main.py file)
