@@ -1,5 +1,5 @@
 ### :arrow_forward:Web-based To-Do List Application
-#### &emsp;&emsp;This is a simple web-based to-do list application that allows users to add, delete, and mark tasks as completed. 
+#### &emsp;&emsp;Web-based to-do list application that allows users to add, delete, and mark tasks as completed. 
 #### &emsp;&emsp;Includes user authentication.
 #### &emsp;&emsp;Server-side verification only for the signup form.
 
