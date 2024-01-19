@@ -1,7 +1,7 @@
 ### Web-based To-Do List Application
-#####This is a simple web-based to-do list application that allows users to add, delete, and mark tasks as completed. 
-#####The application also includes authentication.
-#####Server-side verification only for the signup form.
+##### This is a simple web-based to-do list application that allows users to add, delete, and mark tasks as completed. 
+##### Includes user authentication.
+##### Server-side verification only for the signup form.
 
 ### Weather App
 #####Basic python program to fetch and display weather information to the user
