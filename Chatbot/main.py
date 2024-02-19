@@ -1,5 +1,6 @@
 from nltk.chat.util import Chat, reflections
 
+
 reflections = {
   "i am"       : "you are",
   "i was"      : "you were",
