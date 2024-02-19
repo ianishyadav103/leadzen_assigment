@@ -1,6 +1,6 @@
 import requests
 
-api_key = 'e967c9b612c39387c6ee09d1bbfc09f2'
+api_key = input('Enter yout open weather map api key')
 
 city = input('Enter city name: ')
 
