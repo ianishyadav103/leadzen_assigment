@@ -3,6 +3,7 @@ import json
 import matplotlib.pyplot as plt
 from collections import defaultdict
 
+
 def load_data():
     try:
         with open('expenses.json', 'r') as file:
